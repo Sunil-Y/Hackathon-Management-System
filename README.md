@@ -4,7 +4,7 @@
 
 <img src="https://github.com/Sunil-Y/Hackathon-Management-System/blob/master/extra/flow.JPG">
 
-###Short Summary
+### Short Summary
 1) The purpose of developing this portal is to allow user to register for various hackathon
 events. 
 2) User can sign-up on the portal and login using the username and password.
@@ -12,7 +12,7 @@ events.
 events. 
 5) User can Un-register for the event at any time.
 
-###Functionality
+### Functionality
 1) User can sign-up and login into the system. 
 2) User input validations are done in order to avoid any garbage value insertion into the systems. 
 3) Admin user can be logged in using username and password. 
@@ -22,7 +22,7 @@ events.
 7) When user un-register for the hackathon event number of seats will increase. 
 8) User can download the PDF which contains details about the registered hackathon events.
 
-###Technologies Used
+### Technologies Used
 #### 1) Spring MVC
 Project is built on Spring MVC. Project contains layer segregations which includes VIEW, MODEL, DAO and POJO
 
